@@ -1,0 +1,21 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.info-wrap {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 60px;
+}
+
+.info-wrap img {
+    max-width: 300px;
+    width: 100%;
+}
+
+.info-block ul {
+    text-align: left;
+    font-size: 19px;
+}
